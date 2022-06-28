@@ -5,4 +5,4 @@ This is my app for keeping track of upcoming events for the current workday. Cur
 -Events saved locally on the user's browser so that the page can be refreshed while maintain the current day's set events.  
 
 deployed application link: https://hanksml.github.io/scheduler/     
-application screenshot:  
+application screenshot: ![screenshot](/assets/application_screenshot) 
